@@ -1,0 +1,2 @@
+Eu como desenvolvedor criei um aplicativo que tem todos os dados armazenados de um cliente para poder medir o desempenho 
+feito por cada funcionário em cada estacionamento para conferir se o mesmo tem reclamações, se tem uma boa avaliação dos clientes.
