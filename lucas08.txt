@@ -1,0 +1,1 @@
+desenvolver um sistema de para bater o ponto dos funcionarios de uma forma que de segurança tanto para min quanto para os funcionarios, dessa forma ter a possibilidade de um controle pelo meu servidor de alocar meus funcionarios da forma como eu quiser.
