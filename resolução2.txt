@@ -1,0 +1,2 @@
+eu como desenvolvedor, fiz um programa que contabiliza os números de alunos presentes que estão indo 
+contantemente a escola, assim para o cliente ter em mente os alunos que evadindo.
